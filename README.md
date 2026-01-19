@@ -26,3 +26,4 @@ Se aplicó el modelo de Kruchten para describir el sistema desde múltiples pers
 
 ## Contenido del Repositorio
 - `/documentacion`: Informe técnico final con el detalle de las vistas y decisiones de diseño.
+- `/diagramas`: Diagramas presentados en el Informe.
